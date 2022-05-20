@@ -10,5 +10,5 @@
 
 # #3 Git
 
-* [Manual de Sobrevivência do Git (by: Gama Academy)](https://drive.google.com/file/d/1VnXduzbQJv0_lS45UK3uGUIDjJPUC3KP/view)
+* [Manual de Sobrevivência do Git (by: Gama Academy)](https://drive.google.com/file/d/1PhH6-s7IjDvmKwUB7oiFvK4MEA9loSlA/view)
 * [Git e Terminal - comandos essenciais (by: Gama Academy)](https://drive.google.com/file/d/1MUyj7e9VJtrY77B3D8xkhzS4dQq7mqLG/view)
