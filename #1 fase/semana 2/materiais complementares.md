@@ -6,6 +6,6 @@
 * [JavaScript (by: Gama Academy)](https://drive.google.com/file/d/1QUh7vcMNz_UnSAs0-KpKjjL6sM2PJycp/view)
 * [JAVASCRIPT EM 6 MINUTOS: Tudo Que Você Precisa saber!](https://www.youtube.com/watch?v=Fu6p9TidKZc)
 
-# #2
+# #2 Introdução ao Typescript
 
 * [Typescript (by: Gama Academy)](https://drive.google.com/file/d/1MY2D3IJof2kkFMOuVcyZpqerza5VHYHP/view)
